@@ -40,7 +40,7 @@ Artificial intelligence is transforming industries by improving decision-making 
 
 ## 🚀 Live Demo
 
-👉 Try the live app here: [Hugging Face Space](https://huggingface.co/spaces/YOUR_USERNAME/Summarizer-App)
+👉 Try the live app here: [Hugging Face Space](https://huggingface.co/spaces/PaulSouvik/summarizeText-App)
 
 ---
 
